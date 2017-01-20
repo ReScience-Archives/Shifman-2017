@@ -23,12 +23,12 @@ Publication:
 Repository:
   article:   "https://github.com/ReScience-Archives/Shifman-2017"
   code:      "https://github.com/ReScience-Archives/Shifman-2017"
-  data:      "https://github.com/ReScience-Archives/Shifman-2017"
-  notebook:  "https://github.com/ReScience-Archives/Shifman-2017" 
+  data:      
+  notebook:  
 Reproduction:
   - "*Ionic Current Model of a Hypoglossal Motoneuron*, Purvis LK., Butera RJ., (2005) Journal of Neurophysiology, 93, 723--733"
 Bibliography:
-  article.bib
+  shifman-2017.bib
 
 ---
 
