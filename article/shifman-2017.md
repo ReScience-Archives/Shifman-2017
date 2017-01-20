@@ -9,22 +9,22 @@ Address:
 Contact:
   - ashifman@uottawa.ca
 Editor:
-  - Name Surname
+  - Tiziano Zito
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Damien Drix
+  - Benoît Girard
 Publication:
-  received:  Sep,  1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  Oct,  16, 2016
+  accepted:  Jan, 11, 2017
+  published: Jan, 20, 2017
+  volume:    "**3**"
   issue:     "**1**"
-  date:      Sep 2016
+  date:      Jan 2017
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
-  data:      
-  notebook:  
+  article:   "https://github.com/ReScience-Archives/Shifman-2017"
+  code:      "https://github.com/ReScience-Archives/Shifman-2017"
+  data:      "https://github.com/ReScience-Archives/Shifman-2017"
+  notebook:  "https://github.com/ReScience-Archives/Shifman-2017" 
 Reproduction:
   - "*Ionic Current Model of a Hypoglossal Motoneuron*, Purvis LK., Butera RJ., (2005) Journal of Neurophysiology, 93, 723--733"
 Bibliography:
